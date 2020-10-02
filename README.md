@@ -1,4 +1,4 @@
-# Pr_Project
+# Pattern Recognition Project
 Daily sports and activities 
 
 Dataset link: http://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities
